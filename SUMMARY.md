@@ -11,6 +11,6 @@
   * [Pod(파드)](k8s/pod.md)
 * [network](network/README.md)
   * [08.근거리 통신망(유선 이더넷)](<network/08.근거리 통신망(유선 이더넷).md>)
-  * [주소 변환 프로토콜(ARP)](<network/09.주소 변환 프로토콜(ARP).md>)
+  * [09.주소 변환 프로토콜(ARP)](<network/09.주소 변환 프로토콜(ARP).md>)
 * [spring-boot](spring-boot/README.md)
   * [Spring Boot 이해하는 키워드](spring-boot/Contianerless\&Opinionated.md)
